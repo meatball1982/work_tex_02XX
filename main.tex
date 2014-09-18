@@ -1,0 +1,61 @@
+%\documentclass[12pt,a4paper,draft]{book}% paper setting
+%\documentclass[12pt,a4paper,final]{book}% for ipad reading
+%\documentclass[14pt,oneside,a4paper,final]{book}% normal pper setting
+
+%\documentclass[10pt,oneside,a4paper,twocolumn,final]{book}% normal pper setting
+\documentclass[10pt,oneside,a4paper,twocolumn,draft]{book}% normal pper setting
+%\documentclass[10pt,oneside,a4paper,final]{book}% normal pper setting
+
+
+\input{temp01_settings/settings.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% set a true false to decide plot
+\newboolean{flag_plot}
+\setboolean{flag_plot}{true}
+%\setboolean{flag_plot}{false}
+
+\input{temp01_settings/mdef.tex}
+
+
+\makeindex
+
+\begin{document}
+\begin{CJK}{UTF8}{gbsn}
+
+\input{temp02_pre/pre01_content.tex}
+
+\mainmatter % page number restart num. mod : 2013年 12月 24日 星期二 11:14:30 CST
+
+%% XP ser En, Ch predict
+ \input{temp11_chapter/chap01_00_Intro.tex}
+ \input{temp11_chapter/chap02_00_Wave_Gen.tex}
+ \input{temp11_chapter/chap03_00_Img_Gen.tex}
+ \input{temp11_chapter/chap04_00_Hs.tex}
+
+\printindex
+
+%% refs
+\input{temp22_refs/pos_ref.tex}
+
+
+\clearpage
+\end{CJK}
+\end{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% logs 
+% mod : 2014年 09月 18日 星期四 09:04:48 CST
+% 4 XX master paper
+% mod : 2013年 12月 24日 星期二 11:09:19 CST
+% change the book sturcture.
+% 
+% mod : 2013年 12月 07日 星期六 15:52:29 CST
+% mod all the pic into png file.
+% to accelerate the gen pdf speed.
+%  
+% mod : 2013年 12月 06日 星期五 15:44:17 CST
+% mod : 2013年 12月 02日 星期一 13:12:18 CST
+% 
+% mod : 2013年 11月 30日 星期六 13:11:34 CST
+% 

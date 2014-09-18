@@ -1,0 +1,37 @@
+\usepackage{CJKutf8}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{indentfirst}
+\usepackage{amssymb}
+\usepackage{verbatim}
+\usepackage{ifthen}
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usepackage{float}
+\usepackage{listings}
+\usepackage{makeidx} % for the index
+
+%\usepackage[CJKbookmarks,colorlinks,bookmarksnumbered=true,linkcolor=black,citecolor=black]{hyperref}
+\usepackage[CJKbookmarks=true,unicode=true,colorlinks,bookmarksnumbered=true,linkcolor=black,citecolor=black]{hyperref}
+%\usepackage{everb} %% verbatim with color . mod : 2013年 12月 26日 星期四 15:08:37 CST
+%\everbsetup{bgcolor={[rgb]{0.92,0.92,1.00}}}
+
+\pagestyle{fancy}
+\fancyhead{}
+\fancyhead[LO,LE]{QMANN \today}
+\setlength{\topmargin}{2pt} %
+\setlength{\oddsidemargin}{2pt}
+\setlength{\headheight}{4mm}
+\setlength{\headsep}{6pt}  % 
+\setlength{\voffset}{-0.6in} % 
+\setlength{\hoffset}{-0.6in} %
+\setlength{\footskip}{2.0em} %
+\setlength{\columnsep}{2mm} % 
+\setlength{\textwidth}{530pt} %
+\setlength{\textheight}{740pt} %
+\setlength{\paperheight}{820pt}
+
+\DeclareUnicodeCharacter{00A0}{ }
+
+

@@ -1,0 +1,325 @@
+@incollection{Suh2014127,
+title = "6 - Using CUDA-Accelerated Libraries ",
+editor = "Suh, Jung W.  and Kim, Youngmin ",
+booktitle = "Accelerating Matlab with \{GPUs\} ",
+publisher = "Morgan Kaufmann",
+edition = "",
+address = "Boston",
+year = "2014",
+pages = "127 - 155",
+isbn = "978-0-12-408080-5",
+doi = "http://dx.doi.org/10.1016/B978-0-12-408080-5.00006-7",
+url = "http://www.sciencedirect.com/science/article/pii/B9780124080805000067",
+author = "Jung W. Suh and Youngmin Kim",
+keywords = "Linear algebra",
+keywords = "FFT",
+keywords = "c-mex debugging",
+keywords = "C++ template library "
+}
+
+@article{JCTC_swarm_2014,
+author = {Maragliano, Luca and Roux, Benoît and Vanden-Eijnden, Eric},
+title = {Comparison between Mean Forces and Swarms-of-Trajectories String Methods},
+journal = {Journal of Chemical Theory and Computation},
+volume = {10},
+number = {2},
+pages = {524-533},
+year = {2014},
+doi = {10.1021/ct400606c},
+
+URL = {http://pubs.acs.org/doi/abs/10.1021/ct400606c},
+eprint = {http://pubs.acs.org/doi/pdf/10.1021/ct400606c}
+}
+
+@article{J_CHY_pro_plot_ref,
+author = {Cang, Xiaohui and Du, Yun and Mao, Yanyan and Wang, Yuanyuan and Yang, Huaiyu and Jiang, Hualiang},
+title = {Mapping the Functional Binding Sites of Cholesterol in β2-Adrenergic Receptor by Long-Time Molecular Dynamics Simulations},
+journal = {The Journal of Physical Chemistry B},
+volume = {117},
+number = {4},
+pages = {1085-1094},
+year = {2013},
+doi = {10.1021/jp3118192},
+
+URL = {http://pubs.acs.org/doi/abs/10.1021/jp3118192},
+eprint = {http://pubs.acs.org/doi/pdf/10.1021/jp3118192}
+}
+
+
+@article{j_jpcb_2008_plot_rmsf,
+author = {Babakhani, Arneh and Gorfe, Alemayehu A. and Kim, Judy E. and McCammon, J. Andrew},
+title = {Thermodynamics of Peptide Insertion and Aggregation in a Lipid Bilayer},
+journal = {The Journal of Physical Chemistry B},
+volume = {112},
+number = {34},
+pages = {10528-10534},
+year = {2008},
+doi = {10.1021/jp804710v},
+note ={PMID: 18681475},
+
+URL = {http://pubs.acs.org/doi/abs/10.1021/jp804710v},
+eprint = {http://pubs.acs.org/doi/pdf/10.1021/jp804710v}
+}
+
+
+@article{j_2010_amoeba_view,
+author = {Ponder, Jay W. and Wu, Chuanjie and Ren, Pengyu and Pande, Vijay S. and Chodera, John D. and Schnieders, Michael J. and Haque, Imran and Mobley, David L. and Lambrecht, Daniel S. and DiStasio, Robert A. and Head-Gordon, Martin and Clark, Gary N. I. and Johnson, Margaret E. and Head-Gordon, Teresa},
+title = {Current Status of the AMOEBA Polarizable Force Field},
+journal = {The Journal of Physical Chemistry B},
+volume = {114},
+number = {8},
+pages = {2549-2564},
+year = {2010},
+doi = {10.1021/jp910674d},
+note ={PMID: 20136072},
+
+URL = {http://pubs.acs.org/doi/abs/10.1021/jp910674d},
+eprint = {http://pubs.acs.org/doi/pdf/10.1021/jp910674d}
+}
+
+
+@article{j_2013_amoeba_protein,
+author = {Shi, Yue and Xia, Zhen and Zhang, Jiajing and Best, Robert and Wu, Chuanjie and Ponder, Jay W. and Ren, Pengyu},
+title = {Polarizable Atomic Multipole-Based AMOEBA Force Field for Proteins},
+journal = {Journal of Chemical Theory and Computation},
+volume = {9},
+number = {9},
+pages = {4046-4063},
+year = {2013},
+doi = {10.1021/ct4003702},
+
+URL = {http://pubs.acs.org/doi/abs/10.1021/ct4003702},
+eprint = {http://pubs.acs.org/doi/pdf/10.1021/ct4003702}
+}
+
+@ARTICLE{Mills201142,
+  author = {Matthew J.L. Mills and Paul L.A. Popelier},
+  title = {Intramolecular polarisable multipolar electrostatics from the machine
+	learning method Kriging },
+  journal = {Computational and Theoretical Chemistry },
+  year = {2011},
+  volume = {975},
+  pages = {42 - 51},
+  number = {1â3},
+  note = {Electronic Structure: Principles and Applications. From basic theory
+	The 7th Congress on Electronic Structure: Principles and Applications
+	(ESPA-2010) },
+  doi = {http://dx.doi.org/10.1016/j.comptc.2011.04.004},
+  file = {:10_QMANN_JCTC/2011_polarisable_multipolar_ML.pdf:PDF},
+  issn = {2210-271X},
+  keywords = {Quantum chemical topology},
+  owner = {mm},
+  timestamp = {2014.02.19},
+  url = {http://www.sciencedirect.com/science/article/pii/S2210271X11002015}
+}
+
+@ARTICLE{J_2010_int_pred_pot,
+  author = {Bart\'ok, Albert P. and Payne, Mike C. and Kondor, Risi and Cs\'anyi,
+	G\'abor},
+  title = {Gaussian Approximation Potentials: The Accuracy of Quantum Mechanics,
+	without the Electrons},
+  journal = {Phys. Rev. Lett.},
+  year = {2010},
+  volume = {104},
+  pages = {136403},
+  month = {Apr},
+  doi = {10.1103/PhysRevLett.104.136403},
+  file = {:10_QMANN_JCTC/2010_int_cor_pred_potent.pdf:PDF},
+  issue = {13},
+  numpages = {4},
+  owner = {mm},
+  publisher = {American Physical Society},
+  timestamp = {2014.02.18},
+  url = {http://link.aps.org/doi/10.1103/PhysRevLett.104.136403}
+}
+
+@ARTICLE{j_ann_pes_2013,
+  author = {Hansen, Katja and Montavon, GrÃ©goire and Biegler, Franziska and
+	Fazli, Siamac and Rupp, Matthias and Scheffler, Matthias and von
+	Lilienfeld, O. Anatole and Tkatchenko, Alexandre and MÃ¼ller, Klaus-Robert},
+  title = {Assessment and Validation of Machine Learning Methods for Predicting
+	Molecular Atomization Energies},
+  journal = {Journal of Chemical Theory and Computation},
+  year = {2013},
+  volume = {9},
+  pages = {3404-3419},
+  number = {8},
+  doi = {10.1021/ct400195d},
+  eprint = {http://pubs.acs.org/doi/pdf/10.1021/ct400195d},
+  file = {:10_QMANN_JCTC/ct400195d.pdf:PDF},
+  owner = {mm},
+  timestamp = {2014.02.18},
+  url = {http://pubs.acs.org/doi/abs/10.1021/ct400195d}
+}
+
+@ARTICLE{Lindert2013,
+  author = {Lindert, Steffen and Bucher, Denis and Eastman, Peter and Pande,
+	Vijay and McCammon, J. Andrew},
+  title = {Accelerated Molecular Dynamics Simulations with the AMOEBA Polarizable
+	Force Field on Graphics Processing Units},
+  journal = {J. Chem. Theory Comput.},
+  year = {2013},
+  volume = {9},
+  pages = {4684--4691},
+  number = {11},
+  month = oct,
+  booktitle = {Journal of Chemical Theory and Computation},
+  comment = {doi: 10.1021/ct400514p},
+  doi = {10.1021/ct400514p},
+  file = {:10_QMANN_JCTC/2013_Accelerated_amoeba_gpu.pdf:PDF},
+  issn = {1549-9618},
+  owner = {mm},
+  publisher = {American Chemical Society},
+  timestamp = {2014.02.17},
+  url = {http://dx.doi.org/10.1021/ct400514p}
+}
+
+
+
+@ARTICLE{2012_amber_gpu_mic_second,
+  author = {GÃ¶tz, Andreas W. and Williamson, Mark J. and Xu, Dong and Poole,
+	Duncan and Le Grand, Scott and Walker, Ross C.},
+  title = {Routine Microsecond Molecular Dynamics Simulations with AMBER on
+	GPUs. 1. Generalized Born},
+  journal = {Journal of Chemical Theory and Computation},
+  year = {2012},
+  volume = {8},
+  pages = {1542-1555},
+  number = {5},
+  doi = {10.1021/ct200909j},
+  eprint = {http://pubs.acs.org/doi/pdf/10.1021/ct200909j},
+  file = {:10_QMANN_JCTC/2012_amber_mic_second.pdf:PDF},
+  owner = {mm},
+  timestamp = {2014.02.17},
+  url = {http://pubs.acs.org/doi/abs/10.1021/ct200909j}
+}
+
+@ARTICLE{2013_amber_gpu_mic_second,
+  author = {Salomon-Ferrer, Romelia and GÃ¶tz, Andreas W. and Poole, Duncan and
+	Le Grand, Scott and Walker, Ross C.},
+  title = {Routine Microsecond Molecular Dynamics Simulations with AMBER on
+	GPUs. 2. Explicit Solvent Particle Mesh Ewald},
+  journal = {Journal of Chemical Theory and Computation},
+  year = {2013},
+  volume = {9},
+  pages = {3878-3888},
+  number = {9},
+  doi = {10.1021/ct400314y},
+  eprint = {http://pubs.acs.org/doi/pdf/10.1021/ct400314y},
+  file = {:10_QMANN_JCTC/2013_amber_mic_second.pdf:PDF},
+  owner = {mm},
+  timestamp = {2014.02.17},
+  url = {http://pubs.acs.org/doi/abs/10.1021/ct400314y}
+}
+
+@article{DavidE.Shaw2008,
+ author = {Shaw, David E. and Deneroff, Martin M. and Dror, Ron O. and Kuskin, Jeffrey S. and Larson, Richard H. and Salmon, John K. and Young, Cliff and Batson, Brannon and Bowers, Kevin J. and Chao, Jack C. and Eastwood, Michael P. and Gagliardo, Joseph and Grossman, J. P. and Ho, C. Richard and Ierardi, Douglas J. and Kolossv\'{a}ry, Istv\'{a}n and Klepeis, John L. and Layman, Timothy and McLeavey, Christine and Moraes, Mark A. and Mueller, Rolf and Priest, Edward C. and Shan, Yibing and Spengler, Jochen and Theobald, Michael and Towles, Brian and Wang, Stanley C.},
+ title = {Anton, a Special-purpose Machine for Molecular Dynamics Simulation},
+ journal = {Commun. ACM},
+ issue_date = {July 2008},
+ volume = {51},
+ number = {7},
+ month = jul,
+ year = {2008},
+ issn = {0001-0782},
+ pages = {91--97},
+ numpages = {7},
+ url = {http://doi.acm.org/10.1145/1364782.1364802},
+ doi = {10.1145/1364782.1364802},
+ acmid = {1364802},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+
+@inproceedings{c_anton_2009,
+  title={Millisecond-scale molecular dynamics simulations on Anton},
+  author={Shaw, David E and Dror, Ron O and Salmon, John K and Grossman, JP and Mackenzie, Kenneth M and Bank, Joseph A and Young, Cliff and Deneroff, Martin M and Batson, Brannon and Bowers, Kevin J and others},
+  booktitle={High Performance Computing Networking, Storage and Analysis, Proceedings of the Conference on},
+  pages={1--11},
+  year={2009},
+  organization={IEEE}
+}
+
+
+@ARTICLE{Abernethy2003,
+  author = {Colin D. Abernethy and Gareth M. Codd and Mark D. Spicer
+    and Michelle K. Taylor},
+  title = {{A} highly stable {N}-heterocyclic carbene complex of
+    trichloro-oxo-vanadium(\textsc{v}) displaying novel
+    {C}l---{C}(carbene) bonding interactions},
+  journal = {{J}. {A}m. {C}hem. {S}oc.},
+  year = {2003},
+  volume = {125},
+  pages = {1128--1129},
+  number = {5},
+  doi = {10.1021/ja0276321},
+}
+
+@MISC{ACS2007,
+  url = {http://pubs.acs.org/books/references.shtml},
+}
+
+
+@ARTICLE{J_QM_temp,
+author = {Auth A1. Auth A2 and  Auth A2},
+title = {Pap tit },
+  journal = {Jou tit},
+  year = {2015},
+  volume = {123},
+  pages = {456-457},
+  number = {78},
+}
+
+
+
+@ARTICLE{J_QM_temp2,
+author = {Auth A1. Auth A2 and  Auth A2},
+title = {Pap tit },
+  journal = {Jou tit},
+  year = {2015},
+  volume = {123},
+  pages = {456-457},
+  number = {78},
+}
+
+@ARTICLE{J_QM_temp,
+author = {Auth A1. Auth A2 and  Auth A2},
+title = {Pap tit },
+  journal = {Jou tit},
+  year = {2015},
+  volume = {123},
+  pages = {456-457},
+  number = {78},
+}
+
+@ARTICLE{J_String_2002,
+author = {Daniel A. Beard and Tamar Schlick and Howard Hughes Medical},
+title = {Modeling salt-mediated electrostatics of macromolecules: the discrete surface charge optimization algorithm and its application to the nucleosome},
+journal = {Biopolymers},
+year = {2001},
+pages = {106--115}
+}
+
+@ARTICLE{Burmann2012,
+  author = {Burmann, Björn M. and Knauer, Stefan H. and Sevostyanova, Anastasia
+	and Schweimer, Kristian and Mooney, Rachel A. and Landick, Robert
+	and Artsimovitch, Irina and Rösch, Paul},
+  title = {An α helix to β barrel domain switch transforms the transcription
+	factor RfaH into a translation factor.},
+  journal = {Cell},
+  year = {2012},
+  volume = {150},
+  pages = {291--303},
+  number = {2},
+  month = {Jul},
+  institution = {Lehrstuhl Biopolymere und Forschungszentrum für Bio-Makromoleküle,
+	Universität Bayreuth, Universitätsstraße 30, 95447 Bayreuth, Germany.},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {mm},
+  pii = {S0092-8674(12)00770-2},
+  pmid = {22817892},
+  timestamp = {2014.01.09},
+  url = {http://dx.doi.org/10.1016/j.cell.2012.05.042}
+}
+

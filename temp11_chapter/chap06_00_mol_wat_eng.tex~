@@ -1,0 +1,11 @@
+\part{CHY mol wat int eng}
+
+\chapter{总述}
+\input{temp11_chapter/cha06IntEng/chap06_01_Introduction.tex}
+\input{temp11_chapter/cha06IntEng/chap06_02_main.tex}
+\input{temp11_chapter/cha06IntEng/chap06_03_int_eng_popc_ser.tex}
+
+% mod : 2014年 05月 23日 星期五 10:38:14 CST
+% add popc ser int energy.
+
+

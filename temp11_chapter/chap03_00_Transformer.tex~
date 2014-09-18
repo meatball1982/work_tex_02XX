@@ -1,0 +1,58 @@
+\part{变形金刚}
+
+%\chapter{第一章节}
+%\section{我是介绍}
+%\input{temp11_chapter/cha03Tran/chap03_00_introd.tex}
+%
+%
+%%% plot futing result
+%\chapter{FT结果的输出}
+%\section{结果输出}
+%\subsection{画三维的RMSD}
+%\input{temp11_chapter/cha03Tran/chap03_70_01_test_plot_futing.tex}
+%
+%
+%%% about transform
+%\chapter{关于变形金刚的misc}
+%\section{相关文章}
+%\subsection{Cell中，关于变形金刚的文章的中文大意}
+%\input{temp11_chapter/cha03Tran/chap03_80_01_transformer_cell_Chinese.tex}
+%
+%
+%% about amber
+%\chapter{关于amber安装和使用}
+%
+%\section{安装amber12}
+%\input{temp11_chapter/cha03Tran/chap03_90_00_install_amber.tex}
+%
+%\section{使用amber12}
+%\subsection{一个简单的例子}
+%\input{temp11_chapter/cha03Tran/chap03_90_01_example01.tex}
+%\input{temp11_chapter/cha03Tran/chap03_90_02_para_ill.tex}
+%
+%\chapter{我要作的工作}
+%\section{一个outline}
+%\input{temp11_chapter/cha03Tran/chap03_01_mm_amber_intro.tex}
+%\input{temp11_chapter/cha03Tran/chap03_02_mm_tf_01cal_norm.tex}
+%\input{temp11_chapter/cha03Tran/chap03_02_mm_tf_02cal_heat.tex}
+%\input{temp11_chapter/cha03Tran/chap03_02_mm_tf_03cal_heat_md.tex}
+%\input{temp11_chapter/cha03Tran/chap03_02_mm_tf_04cal_vec_md.tex}
+%\input{temp11_chapter/cha03Tran/chap03_02_mm_tf_05md_res.tex}
+
+%\chapter{我研究的变形金刚}
+%\section{一个outline}
+%\input{temp11_chapter/cha03Tran/chap03_03_mm_TST_01_intro.tex}
+
+\chapter{李老师要我研究的变形金刚}
+\input{temp11_chapter/cha03Tran/chap03_04_mm_key_01_intro.tex}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% logs 
+% mod : 2014年 04月 09日 星期三 19:58:00 CST
+%
+% mod : 2014年 01月 22日 星期三 10:04:23 CST
+% add my study thought.
+%
+% mod : 2013年 12月 24日 星期二 10:36:40 CST
+% begin sturcture.

@@ -1,0 +1,77 @@
+\part{计算XP参数}
+
+\chapter{计算小鹏的参数}
+
+%\section{简介}
+%\input{temp11_chapter/cha01_XP_Ser/chap01_01_Introduction.tex}
+%
+%\section{Pro01.以$dat\_md\_tr$训练网络，以$dat\_md\_si$验证网络}
+%\input{temp11_chapter/cha01_XP_Ser/chap01_01_XP_ser_rmsd.tex}
+%\input{temp11_chapter/cha01_XP_Ser/chap01_02_XP_ser_rand6000.tex}
+
+
+%\input{temp11_chapter/cha01_XP_Ser/chap01_03_XP_ser_rechoose_data.tex}
+
+%\section{Pro01.以$dat\_md\_tr$训练网络，以$dat\_md\_si$验证网络}
+%\section{Pro05.以$dat\_md\_tr$训练网络，以$dat\_pot\_si$验证网络}
+
+
+
+%\input{temp11_chapter/cha01_XP_Ser/chap01_05_XP_ser_md2pot.tex}
+
+%\section{Pro07用小蛋白质中的ser进行训练和预测}
+%\input{temp11_chapter/cha01_XP_Ser/chap01_07_XP_ser_protein.tex}
+%\input{temp11_chapter/cha01_XP_Ser/chap01_08_XP_ser_protein_md.tex}
+%\input{temp11_chapter/cha01_XP_Ser/chap01_09_align_muli_pdb.tex}
+
+
+%\section{内坐标作为网络输入的测试}
+%\input{temp11_chapter/cha01_XP_Ser/chap01_21ZMB_Ser_int.tex}
+
+\section{Science上的一个新的聚类方法}
+%\input{temp11_chapter/cha01_XP_Ser/chap01_10_science_cluster_method.tex}
+\input{temp11_chapter/cha01_XP_Ser/chap01_11_FP_cluster_ANN.tex}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% logs : 
+% mod : 2014年 07月 02日 星期三 17:30:28 CST
+% new science, cluster method.
+% 
+% mod : 2013年 12月 08日 星期日 14:03:39 CST
+% 
+% mod : 2013年 12月 06日 星期五 16:53:54 CST
+% add 25,45,65,85,90 per
+% 
+% mod : 2013年 12月 06日 星期五 15:10:53 CST
+% begin.
+% mod : 2013年 12月 01日 星期日 15:14:20 CST
+% 随机选构象训练网络。
+% 
+% mod : 2013年 11月 30日 星期六 13:57:17 CST
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% rub files
+
+%\mfigTwo
+%{0.25}{temp12_figs/ANN/Pro01/fig_XP_pro01/en/04en_atom_dis_rand_6000/cong_tr/fig_en_per_25_ite_2000_rep_1_congress.eps}
+%{0.25}{temp12_figs/ANN/Pro01/fig_XP_pro01/en/04en_atom_dis_rand_6000/cong_si/fig_en_per_25_ite_2000_rep_1_congress.eps}
+%{中文}
+%{en,tr,atom dis input, 6000ser, 25$\%$, 2000ite, rep 1}
+%{fig_en_tr_cong_atom_dis_6000ser_per25_ite2000_rep1}
+%
+%
+%\mfigTwo
+%{0.25}{temp12_figs/ANN/Pro01/fig_XP_pro01/en/04en_atom_dis_rand_6000/cong_tr/fig_en_per_25_ite_3000_rep_1_congress.eps}
+%{0.25}{temp12_figs/ANN/Pro01/fig_XP_pro01/en/04en_atom_dis_rand_6000/cong_si/fig_en_per_25_ite_3000_rep_1_congress.eps}
+%{中文}
+%{en,tr,atom dis input, 6000ser, 25$\%$, 3000 ite, rep 1}
+%{fig_en_tr_cong_atom_dis_6000ser_per25_ite3000_rep1}
+%
+%\mfigTwo
+%{0.25}{temp12_figs/ANN/Pro01/fig_XP_pro01/en/04en_atom_dis_rand_6000/cong_tr/fig_en_per_25_ite_4000_rep_1_congress.eps}
+%{0.25}{temp12_figs/ANN/Pro01/fig_XP_pro01/en/04en_atom_dis_rand_6000/cong_si/fig_en_per_25_ite_4000_rep_1_congress.eps}
+%{中文}
+%{en,tr,atom dis input, 6000ser, 25$\%$, 4000 ite, rep 1}
+%{fig_en_tr_cong_atom_dis_6000ser_per25_ite4000_rep1}
